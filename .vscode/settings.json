@@ -1,0 +1,14 @@
+{
+    "[*.wren]": {
+        "editor.tabSize": 2
+    },
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 2,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    }
+}
